@@ -3,28 +3,15 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<h2 id="hello-world">Hello World!</h2>
+<p>My name is Rasoul (Persian: رسول) and I was born in <em>Kerman</em>, a historical and cultural city located in South-East of Iran. I am a PhD candidate at Computer Engineering dept., Boston University. I am a doctoral research assistant at <em>Seclab</em> under supervision of <a href="http://megele.io">Prof. Manuel Egele</a>. I did my master’s in Computer Engineering at the Department of CSE and IT of Amirkabir University of technology.</p>
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<h2 id="research-interest">Research Interest</h2>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<p>I am broadly interested in the field of system security.
+My current researches revolve around time and space vulnerabilities in Java applications and PHP remote code execution vulnerabilities.By sandboxing web applications and recording information about function calls in the web application, I look for building a profile for web applicatons and build a system for granting or denying permission to execute system calls. There are various approaches in the field for discovering such vulnerabilities but I think we have our own approach that might work! ;)
+<p>Thanks for stopping by!</p>
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
