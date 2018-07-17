@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my small blog
+title: My small blog
 ---
 This is my first blog's post.
 
